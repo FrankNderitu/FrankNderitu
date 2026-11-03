@@ -48,49 +48,62 @@ I have experience working with Python, Flask, JavaScript, React, Node.js, and SQ
 
 ## 🚀 Featured Projects
 
-### 1. Spendify – Personal Finance Tracker
+### 1. [Spendify – Personal Finance Tracker](https://github.com/FrankNderitu/spendify)
 
-A full-stack personal finance application developed collaboratively by a four-person team.
+A modern personal finance tracking application developed collaboratively by a four-person team to help users manage income and expenses.
 
-**My Role:** Group Leader
+**Role:** Group Leader
 
-**Technologies:** React, Vite, Tailwind CSS
-
-**Key Features:**
-- Income and expense management (CRUD).
-- Automatic balance and financial totals calculations.
-- Category-based filtering.
-- Transaction search functionality.
-- Responsive user interface.
-
-**My Contributions:**
-- Led the four-person development team.
-- Coordinated task allocation across UI/UX, dashboard, forms, and CRUD development.
-- Collaborated with team members using Git and GitHub.
-- Helped coordinate the development and integration of application features.
-
-### 2. ShiftGrid – Volunteer Event Coordination Platform
-
-A platform designed to help coordinate volunteers, events, skills, and available shifts.
-
-**Technologies:** Python, Flask, SQLAlchemy, React, SQL
+**Technologies:** React, JavaScript, Vite, Tailwind CSS, React Router, JSON Server.
 
 **Key Features:**
-- User management.
-- Volunteer skill management.
-- Event location management.
-- Shift coordination.
-- Relational database relationships.
-- REST API integration.
+
+* Income and expense transaction management (CRUD).
+* Real-time balance, income and expense calculations.
+* Transaction filtering and search.
+* Responsive interface for desktop and mobile.
+* Kenyan Shilling (KSh) currency formatting.
 
 **My Contributions:**
-- Backend development using Flask.
-- Database modeling and relationship design using SQLAlchemy.
-- REST API development.
-- Backend integration and debugging.
-- Working with relational database structures.
+
+* Led and coordinated a four-person development team.
+* Coordinated task allocation across UI/UX, dashboard, forms and CRUD development.
+* Facilitated collaboration and integration of different application components.
+* Contributed to the overall development and delivery of the application.
+
+**Links:** [GitHub Repository](https://github.com/FrankNderitu/spendify) | [Live Demo](https://spendify-silk.vercel.app)
 
 ---
+
+### 2. [ShiftGrid – Event Workforce & Logistics Coordination Platform](https://github.com/ckwangechi/shiftgrid)
+
+A full-stack workforce management platform designed to coordinate volunteers, staff, event locations and shift assignments while preventing scheduling conflicts.
+
+**Role:** Backend Developer (Person B)
+
+**Technologies:** Python, Flask, Flask-JWT-Extended, SQLAlchemy, Flask-Migrate, React, SQLite, PostgreSQL.
+
+**Key Features:**
+
+* User authentication and JWT authorization.
+* Volunteer registration and profile management.
+* Shift creation, management and claiming.
+* Skill-based volunteer eligibility validation.
+* Prevention of overlapping shift assignments.
+* Event location management.
+* Password reset functionality.
+
+**My Contributions:**
+
+* Implemented authentication and JWT-related functionality.
+* Developed shift and location API endpoints.
+* Worked on backend business logic and application functionality.
+* Implemented skill validation for volunteer shift eligibility.
+* Worked on collision detection to prevent overlapping shift assignments.
+* Contributed to password reset functionality.
+
+**Links:** [GitHub Repository](https://github.com/ckwangechi/shiftgrid)
+
 
 ## 🎯 What I'm Currently Focused On
 
